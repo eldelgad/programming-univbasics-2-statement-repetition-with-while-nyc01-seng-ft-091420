@@ -2,7 +2,7 @@
 
 count = 1
 
-while count.to_i <= 10 do
+while count <= 10 do
   puts count
   count += 1 
 end
