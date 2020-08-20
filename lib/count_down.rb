@@ -1,6 +1,6 @@
 # Write your code here
 
-count = 0
+count = 1
 
 while count.to_i <= 10 do
   puts count
